@@ -10,7 +10,7 @@ Using Anglar, React or Vue.js (preferrable **Angular**) try to implement the cod
 Upload your code to github and send the github repo link to hr@fastestbooking.com
 
 ###### Note: 
-
+  * [Figma file can be found here](https://www.figma.com/file/fLzvEwpYVLYQcTYK4CC5y5/URA?node-id=6%3A8) 
   * Use any framwork of your choice
   * Use any image or text as logo
   * Repo has to be public
